@@ -35,10 +35,6 @@ I also have an exciting app in the oven, that I'm cooking and plan to fully open
 <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=marinofelipe&count_private=true&show_icons=true" /></a>
 <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinofelipe&layout=compact" /></a>
 
-#### Thoughts around OSS 💭
-Open-source software is about community, sharing, helping and being helped, therefore my goal is to sponsor some of the great contributors of our community, and increase my participation in other projects.<br>
-There are amazing content out there that makes our lives better each and every day that could use some help :). By us I mean, really, all of us as individuals, developers, organizations, products, etc - I wish that orgs also further embraced the open-source cause, not mainly as consumers - something we can and should fight for 👊 .
-
 ### How to contact me 📫 
 If you wish to chat, feel more than free to:
 - Drop me a line on [twitter](https://twitter.com/_marinofelipe)
