@@ -23,7 +23,7 @@ Most part of my work and contributions are written in [Swift](https://swift.org/
 
 #### Do you like my open-source work? 🛠
 Contributions are more than welcome 🙏, so don't shy away of opening an issue, requesting a feature or helping me out as you can.<br>
-_If any of like my work_, if my projects have helped or inspired you, has saved you time and money, please [become my sponsor](https://github.com/sponsors/marinofelipe) 🤝 ♥️ .<br>
+If my projects have helped or inspired you, has saved you time and money, please [become my sponsor](https://github.com/sponsors/marinofelipe) 🤝 ♥️ .<br>
 I'd be honored! It would help me to put more resources and time into them. As a user you also benefit from having more of my time and support into the projects you enjoy using 🙌 .
 
 You can also... <br>
