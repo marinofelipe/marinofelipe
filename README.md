@@ -10,13 +10,6 @@ I’m currently working full-time [@GetYourGuide](https://github.com/getyourguid
 - Exploring [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming#:~:text=Functional%20reactive%20programming%20(FRP)%20is,map%2C%20reduce%2C%20filter) and considering learning [Haskell](https://www.haskell.org/) to go deeper into the functional side of things
 - Playing and building projects with SwiftUI and Combine
 
-### More about me 🚶‍♂️
-- I like sports, and closely follow the NFL 🏈 
-- I love nature, architecture and thus visiting new places around 🌲 
-- I enjoy playing video-games a lot, anxiously waiting for a PS5 and/or the rumored Nintendo Switch "Pro?" 🕹
-- _Pronouns_: he/him 😄 
-- From time to time I find inspiration to share thoughts on my [personal blog](https://marinofelipe.github.io/) 📝 
-
 ### Open source 🔓 🌎
 I love contributing to open-source, which I've been trying to do more over time.<br>
 Most part of my work and contributions are written in [Swift](https://swift.org/), which is a great programming language, backed by a great community of developers that I'm proud of being part.
