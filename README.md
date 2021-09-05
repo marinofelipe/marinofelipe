@@ -13,13 +13,8 @@ I’m currently working full-time [@GetYourGuide](https://github.com/getyourguid
 ### Open source 🔓 🌎
 I love contributing to open-source, which I've been trying to do more over time.<br>
 Most part of my work and contributions are written in [Swift](https://swift.org/), which is a great programming language, backed by a great community of developers that I'm proud of being part.
+if you rely on any of my open source work, don't shy away from opening an issue, requesting a feature or helping me out as you can, all contributions are highlhy welcome.
 
-#### Do you like my open-source work? 🛠
-Contributions are more than welcome 🙏, so don't shy away of opening an issue, requesting a feature or helping me out as you can.<br>
-If my projects have helped or inspired you, has saved you time and money, please [become my sponsor](https://github.com/sponsors/marinofelipe) 🤝 ♥️ .<br>
-I'd be honored! It would help me to put more resources and time into them. As a user you also benefit from having more of my time and support into the projects you enjoy using 🙌 .
-
-You can also... <br>
 <a href="https://www.buymeacoffee.com/marinofelipe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a>
 
 #### Some contribution stats 📊
