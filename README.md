@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Felipe, but you can also call me by my last name - Marino 🤌 .
-
 I'm a software engineer, with expertise in development for iOS and Apple's ecosystem.<br>
 I’m currently working full-time [@GetYourGuide](https://github.com/getyourguide), where our mission and journey is to share incredible experiences with travelers around the world 🗼 🎡 ⛩ 🏖 🗻.
 
