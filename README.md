@@ -5,7 +5,7 @@ I'm a software engineer, with expertise in development for iOS and Apple's ecosy
 I’m currently working full-time [@GetYourGuide](https://github.com/getyourguide), where our mission and journey is to share incredible experiences with travelers around the world 🗼 🎡 ⛩ 🏖 🗻.
 
 ### Learning 🌱 
-- At the moment very focused in apps on scale, hyper modularization, and tooling
+- At the moment very focused in apps at scale, hyper modularization, tooling, build systems and compilers
 - Playing with [Rust](https://www.rust-lang.org/) - goal is dive more into low(er) level and strengthen fundamentals
 - Exploring [FRP](https://en.wikipedia.org/wiki/Functional_reactive_programming#:~:text=Functional%20reactive%20programming%20(FRP)%20is,map%2C%20reduce%2C%20filter) and considering learning [Haskell](https://www.haskell.org/) to go deeper into the functional side of things
 
