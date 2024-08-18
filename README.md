@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-My name is Felipe, but you can also call me by my last name - Marino 🤌 .
-I'm a software engineer, with expertise in development for iOS and Apple's ecosystem.<br>
-I’m currently working full-time [@GetYourGuide](https://github.com/getyourguide), where our mission and journey is to share incredible experiences with travelers around the world 🗼 🎡 ⛩ 🏖 🗻.
+My name is Felipe, I'm a software engineer with expertise on developing for Apple's ecosystem.<br>
+I’m currently working full-time [@GetYourGuide](https://github.com/getyourguide), where our mission and journey is to share incredible experiences with travelers around the world 🗼 ⛩ 🏖 🗻
 
 ### Learning 🌱 
-- At the moment focused in apps at scale, hyper modularization, tooling, build systems and compilers
-- From time to time I play with [Rust](https://www.rust-lang.org/) - goal is dive more into low(er) level and strengthen fundamentals
+- I've a passion for Apps at scale, modularization, tooling, build systems and Compilers, lately I've been having a blast with [Crafting Interpreters by Robert Nystrom](craftinginterpreters.com)
+- From time to time I play with [Rust](https://www.rust-lang.org/)
 
 ### Open source 🔓 🌎
-Most part of my contributions are in [Swift](https://swift.org/). Please don't shy away from opening an issue, requesting a feature or helping me out as you can, all contributions are super welcomed.
+Most part of my contributions are in [Swift](https://swift.org/). Please don't shy away from opening an issue, requesting a feature or helping me out as you can, all contributions are very welcomed.
 
 <a href="https://www.buymeacoffee.com/marinofelipe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a>
 
