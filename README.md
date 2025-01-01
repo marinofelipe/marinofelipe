@@ -4,7 +4,7 @@ My name is Felipe, I'm a software engineer with expertise on developing for Appl
 I’m currently working full-time [@GetYourGuide](https://github.com/getyourguide), where our mission and journey is to share incredible experiences with travelers around the world 🗼 ⛩ 🏖 🗻
 
 ### Learning 🌱 
-- I've a passion for Apps at scale, modularization, tooling, build systems and Compilers, lately I've been having a blast with [Crafting Interpreters by Robert Nystrom](craftinginterpreters.com)
+- I've a passion for Apps at scale, modularization, tooling, build systems and Compilers, lately I've been doing [Crafting Interpreters by Robert Nystrom](craftinginterpreters.com)
 - From time to time I play with [Rust](https://www.rust-lang.org/)
 
 ### Open source 🔓 🌎
